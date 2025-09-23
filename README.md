@@ -2,6 +2,8 @@
 
 Hey, I'm Fran, AI focused Computing Science undergraduate at UAlberta.
 
+🕳️
+
 <!--
 **ftyuli/ftyuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
